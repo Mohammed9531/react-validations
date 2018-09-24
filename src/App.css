@@ -1,0 +1,17 @@
+.app-container {
+  margin: 30px;
+  padding: 0 10px;
+}
+
+.validation-errors {
+  color: #ff0000e3;
+  font-weight: 500;
+  font-size: x-small;
+}
+
+.chips-error ul.p-inputtext,
+.chips-error>input.p-inputtext,
+.chips-error>input.p-inputtext:hover {
+  border: 1px solid #ff0000e3 !important;
+}
+
